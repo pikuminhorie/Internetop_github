@@ -7,6 +7,8 @@ function setup() {
     background(255);
   }
   
+
+  //01
   // 計算と表示
   function draw() {
     // ぬりつぶす
@@ -16,6 +18,13 @@ function setup() {
     ellipse(mouseX, mouseY, 100);
   }
   
+
+//02
+
+//03
+
+
+
 
 // 前表示のためのjsなので以下ノータッチ
   function init() {
