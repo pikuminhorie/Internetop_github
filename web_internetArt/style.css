@@ -4,11 +4,30 @@
 }
 
 body{
-    background-color: #67857a; //#70002c #67857a
+    background-color: #4800ff; 
+    
   }
   /* .all{
     color: #70002c;
   } */
+
+  .wrapper{
+    background-image: url(/main_material/photo/texturepaper_01.jpg);
+    mix-blend-mode:lighten;
+    opacity: 0.5;
+
+  }
+/* 試行錯誤して没にしたところ */
+  /* .texture{
+  mix-blend-mode:color-dodge;
+  opacity: 0.5;
+  z-index: 20;
+} */
+/* .paper{
+  background-image: url(/main_material/photo/texturepaper_01.jpg);
+   z-index: 20;
+} */
+
 
 
   html , body{
