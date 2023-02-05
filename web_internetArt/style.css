@@ -6,6 +6,11 @@
 body{
     background-color: #67857a; //#70002c #67857a
   }
-  .all{
+  /* .all{
     color: #70002c;
+  } */
+
+
+  html , body{
+    overflow: hidden;
   }
